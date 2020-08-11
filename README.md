@@ -35,8 +35,7 @@ SELECT * FROM test_news2;
 SELECT * FROM test_news1
 UNION ALL
 SELECT * FROM test_news2
-ORDER BY date DESC;
--- ORDER BY // ソート
+ORDER BY date DESC; -- ORDER BY // ソート
 -- DESC // 降順
 -- ASC // 昇順
 ```
