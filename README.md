@@ -1,7 +1,8 @@
 # テーブルを縦につなげる（UNION ALL）
-- test
 
-## 1 テープルの中身
+LIKEを用いて、複数のテーブルから
+
+## 1 テーブルの中身
 
 ![1](images/unionall1.png)
 
@@ -21,7 +22,7 @@ SELECT * FROM test_news2;
 - カラムが一致しないといけない
 
 
-## 4 ※おまけ 日付（dateカラム）で並び替える
+## 4 日付（dateカラム）で並び替える
 ![4](images/unionall4.png)
 
 ```SQL
