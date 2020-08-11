@@ -7,6 +7,10 @@ LIKEを用いて、複数のテーブルから
 
 ![2](images/unionall2.png)
 
+```SQL
+SHOW TABLES;
+```
+
 ## 2 テーブルの中身
 
 ![1](images/unionall1.png)
