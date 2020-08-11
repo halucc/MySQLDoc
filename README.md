@@ -12,15 +12,13 @@
 ## 3
 ![3](images/unionall3.png)
 
-
-
 ```SQL
 SELECT * FROM test_news1
 UNION ALL
 SELECT * FROM test_news2;
 ```
 
-
+## 4 aaa
 ![4](images/unionall4.png)
 
 ```SQL
