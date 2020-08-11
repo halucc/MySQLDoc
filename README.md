@@ -2,13 +2,15 @@
 
 LIKEを用いて、複数のテーブルから
 
-## 1 テーブルの中身
+
+## 1 tempデータベース内に２つテーブル
+
+![2](images/unionall2.png)
+
+## 2 テーブルの中身
 
 ![1](images/unionall1.png)
 
-## 2 tempデータベース内に２つテーブル
-
-![2](images/unionall2.png)
 
 ## 3 縦につなげる
 ![3](images/unionall3.png)
