@@ -25,7 +25,7 @@ UNION ALL
 SELECT * FROM test_news2;
 ```
 
-※カラムが一致しないといけない
+※カラム（id,title,date）が一致しないといけない
 
 
 ## 4 日付（dateカラム）で並び替える
