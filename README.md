@@ -5,11 +5,11 @@ LIKE演算子を用いて、複数のテーブルから検索する場合など�
 
 ## 1 【準備】tempデータベース
 
-![2](images/unionall2.png)
-
 ```SQL
 SHOW TABLES;
 ```
+
+![2](images/unionall2.png)
 
 ## 2 テーブルの中身
 
